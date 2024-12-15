@@ -1,0 +1,7 @@
+The accuracy of predicting the letter grade of a course:
+baseline model (linear regression): 35.9680%
+rnn model: 40.1809%
+
+Feature importance:
+We rank the features by their importance. The top-10 features include:
+Primary_Instructor, Sched Type_LCD, Number, Sched Type_LEC, Sched Type_DIS, Year, Sched Type_ONL, Subject_ECON, Subject_CHEM, Subject_MATH.
